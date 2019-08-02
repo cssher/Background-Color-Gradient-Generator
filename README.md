@@ -1,2 +1,2 @@
 # Background-Color-Gradient-Generator
-A simple tool to generate background two tone gradient color.
+A simple tool to generate background two tone gradient color. Used basic HTML CSS JS syntax. The colour in term of Red() Green() Blue() format with value is generated for the transition effect from right to left. Sample syntax generated for any random chosen backgrond effect: LINEAR-GRADIENT(TO RIGHT, RGB(131, 60, 196), RGB(255, 0, 0)); ~ this is to be copy pasted in the body selector of one's CSS stylesheet. It would be wonderful if someone implements a copy button for the above colour-code generated to copied in a clipboard. Any suggestions welcome.
